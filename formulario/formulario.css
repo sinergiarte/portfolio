@@ -1,0 +1,29 @@
+ a{color: #7a1475;
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif}
+  
+    .form-group {
+    margin-bottom: 15px;
+    }
+    label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 5px;
+    }
+    input, textarea {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #7a1475;
+    border-radius: 4px;
+    }
+    button {
+    background-color: #f5eef4;
+    color: rgb(117, 22, 78);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    }
+    button:hover {
+    background-color: #8d0462;
+    }
